@@ -15,7 +15,8 @@ This repository contains a C implementation of the Shortest Job First (SJF) non-
 ## Execution Result
 Below is a screenshot of the program execution and output:
 
-![SJF Program Execution](PASTE_YOUR_IMAGE_LINK_HERE)
+<img width="487" height="452" alt="image" src="https://github.com/user-attachments/assets/6fc3587b-c465-46d8-afdd-e96fc5a44c49" />
+
 
 ---
 
